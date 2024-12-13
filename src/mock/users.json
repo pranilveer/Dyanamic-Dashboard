@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "status": "active",
+      "region": "North America",
+      "registrationDate": "2024-06-01"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "status": "inactive",
+      "region": "Europe",
+      "registrationDate": "2024-05-15"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "status": "active",
+      "region": "Asia",
+      "registrationDate": "2024-04-20"
+    },
+    {
+      "id": 4,
+      "name": "Emily White",
+      "email": "emily.white@example.com",
+      "status": "inactive",
+      "region": "Australia",
+      "registrationDate": "2024-03-10"
+    },
+    {
+      "id": 5,
+      "name": "Daniel Green",
+      "email": "daniel.green@example.com",
+      "status": "active",
+      "region": "South America",
+      "registrationDate": "2024-07-01"
+    }
+  ]
+  

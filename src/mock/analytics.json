@@ -1,0 +1,24 @@
+{
+    "totalUsers": 100,
+    "activeUsers": 60,
+    "deletedUsers": 10,
+    "userRegistrationTrend": [
+      { "month": "January", "registrations": 10 },
+      { "month": "February", "registrations": 15 },
+      { "month": "March", "registrations": 20 },
+      { "month": "April", "registrations": 25 },
+      { "month": "May", "registrations": 30 },
+      { "month": "June", "registrations": 40 }
+    ],
+    "activeInactiveRatio": {
+      "active": 60,
+      "inactive": 40
+    },
+    "usersByRegion": [
+      { "region": "North America", "count": 20 },
+      { "region": "Europe", "count": 30 },
+      { "region": "Asia", "count": 25 },
+      { "region": "Australia", "count": 10 },
+      { "region": "South America", "count": 15 }
+    ]
+  }  

@@ -1,0 +1,15 @@
+.analytics-cards {
+    display: flex;
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+  
+  .card {
+    background-color: #007BFF;
+    color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    flex: 1;
+    text-align: center;
+  }
+  
